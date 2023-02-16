@@ -1,8 +1,4 @@
 
-<div align=center>
-<img src="img/0.gif"/>
-</div>
-
 #（Bkebi 搬运）
 
 ### [Bkebi Download！](https://github.com/Bkebi-Group/Bkebi-GC-Release)  
